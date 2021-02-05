@@ -1,1 +1,6 @@
-hello git
+#include <stdio>
+
+int main()
+{
+    printf("Hello World!");
+}
